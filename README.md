@@ -1,16 +1,13 @@
-## Hi there 👋
+# ⭐ Hi, I'm Hanbyul!
+Welcome to my GitHub profile.
 
-<!--
-**Hanbyul100/Hanbyul100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Python Study
+Here you'll find projects and exercises I'm doing to improve my Python skills.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python Coding
+- Data analysis with Pandas
+- Machine learning basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+hbpage28@gmail.com
